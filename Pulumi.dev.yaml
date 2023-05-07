@@ -1,0 +1,4 @@
+config:
+  gcp:project: tokyo-ring-351304
+  gcp:region: us-east5
+  gcp:zone: us-east5-a
